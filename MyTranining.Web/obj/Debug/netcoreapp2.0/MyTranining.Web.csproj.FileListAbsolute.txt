@@ -1,0 +1,10 @@
+F:\项目编写\temp\MyTranining.Web\bin\Debug\netcoreapp2.0\MyTranining.Web.deps.json
+F:\项目编写\temp\MyTranining.Web\bin\Debug\netcoreapp2.0\MyTranining.Web.runtimeconfig.json
+F:\项目编写\temp\MyTranining.Web\bin\Debug\netcoreapp2.0\MyTranining.Web.runtimeconfig.dev.json
+F:\项目编写\temp\MyTranining.Web\bin\Debug\netcoreapp2.0\MyTranining.Web.dll
+F:\项目编写\temp\MyTranining.Web\bin\Debug\netcoreapp2.0\MyTranining.Web.pdb
+F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.csproj.CoreCompileInputs.cache
+F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.AssemblyInfoInputs.cache
+F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.AssemblyInfo.cs
+F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.dll
+F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.pdb

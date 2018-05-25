@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTranining.Web", "MyTranining.Web\MyTranining.Web.csproj", "{BFA1C073-9519-4339-A7A6-1DF8C18F920E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training.Api", "Training.Api\Training.Api.csproj", "{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BFA1C073-9519-4339-A7A6-1DF8C18F920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFA1C073-9519-4339-A7A6-1DF8C18F920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFA1C073-9519-4339-A7A6-1DF8C18F920E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

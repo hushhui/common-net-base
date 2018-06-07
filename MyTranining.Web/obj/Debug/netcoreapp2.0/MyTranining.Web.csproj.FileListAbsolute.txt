@@ -8,4 +8,3 @@ F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.Ass
 F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.AssemblyInfo.cs
 F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.dll
 F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.pdb
-F:\项目编写\temp\MyTranining.Web\obj\Debug\netcoreapp2.0\MyTranining.Web.csprojResolveAssemblyReference.cache

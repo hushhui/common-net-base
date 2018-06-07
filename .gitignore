@@ -7,3 +7,6 @@
 /Training.Api/obj
 /Training.NetCore.WebApi/bin/Debug/netcoreapp2.0
 /Training.NetCore.WebApi/obj
+/packages
+/Training.Windows.WebApi/bin
+/Training.Windows.WebApi/obj/Debug

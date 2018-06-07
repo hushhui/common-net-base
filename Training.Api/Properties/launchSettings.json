@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Training.Api": {
+    "Training.NetCore.WebApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Training.NetCore.WebApi</AssemblyName>
+    <RootNamespace>Training.NetCore.WebApi</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

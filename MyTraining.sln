@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTranining.Web", "MyTranining.Web\MyTranining.Web.csproj", "{BFA1C073-9519-4339-A7A6-1DF8C18F920E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Training.NetCore.WebApi", "Training.Api\Training.NetCore.WebApi.csproj", "{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Training.NetCore.WebApi", "Training.NetCore.WebApi\Training.NetCore.WebApi.csproj", "{3EBF29FC-72BD-418D-B4E6-92D798E72D8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{BFA1C073-9519-4339-A7A6-1DF8C18F920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFA1C073-9519-4339-A7A6-1DF8C18F920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFA1C073-9519-4339-A7A6-1DF8C18F920E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1E5C5AE-08E2-48D1-90ED-DD5EFC5F83B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBF29FC-72BD-418D-B4E6-92D798E72D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBF29FC-72BD-418D-B4E6-92D798E72D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBF29FC-72BD-418D-B4E6-92D798E72D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBF29FC-72BD-418D-B4E6-92D798E72D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
